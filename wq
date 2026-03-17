@@ -1,0 +1,19 @@
+let nomes =["Robert","Henrique","Beatriz","Eduardo"];
+//             0.        1.         2.        3. 
+let numeros =[20,40,50,60];
+                                          
+for( let i=0; i<numeros.length; i++ ){
+  console.log(numeros[i]);
+}
+
+let matriz=[
+    [20,30,40,50]
+    [34,76,12,32]
+    [20,30,32,50]
+    [20,30,23,50]
+];
+for(let i=0; i<matriz.length; i++){
+    for( let j=0; j<matriz.length;j++){
+        console.log("Minha matriz"+matriz[i(0)]);
+    }
+}
